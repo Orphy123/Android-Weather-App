@@ -9,7 +9,7 @@ This is a Weather App based on and extended from [philipplackner's version](http
 
 
 <p float="left">
-  <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph1.JPG" width="250">
+  <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph1.jpeg" width="250">
   <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph2.jpeg" width="250">
   <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph3.jpeg" width="250">
 </p>
