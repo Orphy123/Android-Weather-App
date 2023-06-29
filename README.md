@@ -8,11 +8,9 @@ This is a Weather App based on and extended from [philipplackner's version](http
 - Recent Search Queries: The application includes a unique feature where all the recent search queries made by the user are temporarily stored for quick reference and efficient recall.
 
 
-<p float="left">
-  ![ph1](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
-  ![ph2](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
-  ![ph3](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
-</p>
+![ph1](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
+![ph2](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
+![ph3](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
 
 
 ## Technical Stack and Architectural Patterns
