@@ -9,9 +9,9 @@ This is a Weather App based on and extended from [philipplackner's version](http
 
 
 <p float="left">
-  <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph1.jpeg">
-  <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph1.jpeg">
- <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph1.jpeg" >
+  ![ph1](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
+  ![ph2](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
+  ![ph3](https://github.com/Orphy123/Android-Weather-App/assets/62134611/38db9026-d8dd-480f-b54e-110fff637e31)
 </p>
 
 
