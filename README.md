@@ -7,11 +7,13 @@ This is a Weather App based on and extended from [philipplackner's version](http
 - Real-time Location Tracking: With advanced GPS services, the app efficiently determines the user's current location and fetches the corresponding weather data.
 - Recent Search Queries: The application includes a unique feature where all the recent search queries made by the user are temporarily stored for quick reference and efficient recall.
 
+
 <p float="left">
   <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph1.jpeg" width="250">
   <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph2.jpeg" width="250">
   <img src="https://github.com/Orphy123/Android-Weather-App/edit/main/images/ph3.jpeg" width="250">
 </p>
+
 
 ## Technical Stack and Architectural Patterns
 
