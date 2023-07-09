@@ -1,17 +1,19 @@
 # WeatherApp
 This is a Weather App based on and extended from [philipplackner's version](https://github.com/philipplackner/WeatherApp).
 
+<p float="left">
+  <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph1.jpeg" width="30%" />
+  <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph2.jpeg" width="30%" /> 
+  <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph4.jpeg" width="30%" />
+</p>
+
 ## Features
 - [Open Meteo](https://open-meteo.com/en): Harnessing the power of Open Meteo, the app provides hourly weather information for the entire day
 - [Google Maps API](https://developers.google.com/maps): The application integrates Google Maps API enabling users to select any global location to retrieve the corresponding weather information.
 - Real-time Location Tracking: With advanced GPS services, the app efficiently determines the user's current location and fetches the corresponding weather data.
 - Recent Search Queries: The application includes a unique feature where all the recent search queries made by the user are temporarily stored for quick reference and efficient recall.
 
-<p float="left">
-  <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph1.jpeg" width="30%" />
-  <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph2.jpeg" width="30%" /> 
-  <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph3.jpeg" width="30%" />
-</p>
+
 
 
 ## Technical Stack and Architectural Patterns
