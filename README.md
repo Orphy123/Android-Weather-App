@@ -1,11 +1,13 @@
 # WeatherApp
-This is a Weather App based on and extended from [philipplackner's version](https://github.com/philipplackner/WeatherApp).
 
 <p float="left">
   <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph1.jpeg" width="30%" />
   <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph2.jpeg" width="30%" /> 
   <img src="https://github.com/Orphy123/Android-Weather-App/blob/main/images/ph4.jpeg" width="30%" />
 </p>
+
+This is a Weather App based on and extended from [philipplackner's version](https://github.com/philipplackner/WeatherApp).
+
 
 ## Features
 - [Open Meteo](https://open-meteo.com/en): Harnessing the power of Open Meteo, the app provides hourly weather information for the entire day
